@@ -5,8 +5,5 @@
 
 namespace hayohtee
 {
-    class Calculator
-    {
-
-    };
+    int add(int left, int right);
 }
